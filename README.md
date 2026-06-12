@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="220px">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#ffffff;">Madhava</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#ffffff;">Jethin mudda</span></h1>
 
 <p align="center">
   <em>⚪ AI & Data Science Undergraduate | ⚫ ML/LLM Developer | ⚪ GenAI Explorer</em>
